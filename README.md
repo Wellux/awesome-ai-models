@@ -9,6 +9,28 @@
 
 Everything below the agent: local inference engines, gateways and model routers, open and decision models, fine-tuning and efficiency, SDKs, plus computer vision, 3D, video understanding, robotics and the ML foundations under it all. Sorted by what you do with a model, from running it on a Mac to teaching it to see.
 
+<!-- onboarding:start -->
+### In 3 Minuten startklar
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/onboarding-dunkel.svg">
+  <img alt="In 3 Minuten startklar: 1. Start here: 4 Picks, einer pro Rolle; 2. Rubrik: nach Aufgabe sortiert, nicht Hype; 3. Ausprobieren: README des Picks, Install-Zeile; 4. Dranbleiben: Stern setzen, Updates im Feed" src=".github/assets/onboarding-hell.svg" width="100%">
+</picture>
+
+1. **Start here.** Oben unter [Start here](#start-here) stehen 4 Picks, einer je Rolle. Fang mit dem an, der zu deiner Lücke passt.
+2. **Rubrik.** Unter [Contents](#contents) die Rubrik wählen: 594 Repos, jedes genau einmal einsortiert, nach der Aufgabe, die es erledigt.
+3. **Ausprobieren.** Den Pick öffnen und seine Install-Zeile ausführen; die Sterne zeigen, wie viele ihn schon nutzen.
+4. **Dranbleiben.** Dieser Liste einen Stern geben: neue Picks erscheinen in deinem GitHub-Feed.
+
+**Was du davon hast**
+
+- 594 Repos rund um AI Models, nach Aufgabe sortiert, statt tagelang selbst zu suchen.
+- Jeder Pick sagt in einem Satz, wofür er gut ist.
+- Aufgenommen wird nur, was öffentlich ist, eine Lizenz hat und heute läuft.
+
+**Nächster Schritt:** Fehlt ein Repo? Über [CONTRIBUTING.md](CONTRIBUTING.md) vorschlagen, ein Satz zur Aufgabe genügt; mehr Listen auf [github.com/Wellux](https://github.com/Wellux).
+<!-- onboarding:end -->
+
 ## Start here
 
 No time for 594 repos? Start with these 4, one per role. Add the rest when you feel the gap.
